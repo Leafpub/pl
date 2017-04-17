@@ -318,8 +318,15 @@ return [
 
     'decimal_separator' => ',',
     'thousands_separator' => ' ',
-
+    
+    'dashboard' => '', 
+    'no_updates' => '', 
+    'rendering_the_dashboard' => '', 
+    'select_a_media_file' => '', 
+    'show_dashboard' => '', 
+    'updates' => '',
+    
     'language_code' => 'pl',
     'language_name' => 'Polski',
-    'language_version' => '1.1.8'
+    'language_version' => '1.2.0'
 ];
